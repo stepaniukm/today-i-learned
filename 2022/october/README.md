@@ -1,3 +1,7 @@
 # October 2022
 
 This is where my journey begins. A few days ago during Meet.js, I was inspired by a talk `Architektura heksagonalna w NestJS (Hexagonal architecture in NestJS) ` and decided October will be the month of architecture. I'm taking a part in [DNA](https://droganowoczesnegoarchitekta.pl/). This is a Polish course about architecture on different levels. For a long time, I planned to get to this topic more seriously, but I simply had more important things in my head. I wanted to stabilize my knowledge in more crucial areas for a Regular Fullstack Developer. Now as I got a stable job, I can bring my attention closer to software architecture again. Besides the course, I have also several books on my Kindle, so I'll try to read them more regularly. I'll start with repeating the ultimate classic `Clean Architecture` by Uncle Bob and then we'll see what others will be recommended to me by my more experienced friends.
+
+## Update (03-10-2022):
+
+Starting from today I'll also add a section `What I reminded` to some days, as I think it's also good to note what things I used to know, but for some reason forgot I know or just forgot :D I'll start with some English. I want to enrich my vocabulary and I think a reasonable thing to do will be a revision of material from my high school. It may sound weird, but I feel like I skipped a lot of useful words and in everyday communication, I used only few simpler expressions.
